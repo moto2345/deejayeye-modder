@@ -1,0 +1,13 @@
+    <string name="DJIIMUInitFailReasonGyroBiasToolLarge">IMU 오류. IMU를 캘리브레이션하세요.</string>    
+		<string name="DJIIMUInitFailReason_AcceBiasTooLarge">IMU 오류. IMU를 캘리브레이션하세요.</string>    
+		<string name="DJIIMUInitFailReason_AcceDead">가속도센서 오류. 기체를 재시작하세요. 문제가 지속될 경우 DJI 고객센터에 문의하세요.</string>    
+		<string name="DJIIMUInitFailReason_AcceMoveTooLarge">기체 큰 움직임이 감지되었습니다. 기체를 안정된 상태로 유지하세요. 문제가 지속될 경우 DJI 고객센터에 문의하세요.</string>    <string name="DJIIMUInitFailReason_AircraftHeadMoved">기체 머리 움직임이 감지되었습니다. 기체를 안정된 상태로 유지하세요. 문제가 지속될 경우 DJI 고객센터에 문의하세요.</string>
+		<string name="DJIIMUInitFailReason_AircraftVirbrated">기체 진동이 감지되었습니다. 기체를 안정된 상태로 유지하세요. 문제가 지속될 경우 DJI 고객센터에 문의하세요.</string>
+		<string name="DJIIMUInitFailReason_BarometerDead">기압계 오류. 기체를 재시작하세요. 문제가 지속될 경우 DJI 고객센터에 문의하세요.</string>
+		<string name="DJIIMUInitFailReason_BarometerNegative">기압계 오류. 기체를 재시작하세요. 문제가 지속될 경우 DJI 고객센터에 문의하세요.</string>
+		<string name="DJIIMUInitFailReason_BarometerNoiseTooLarge">기압계 오류. 기체를 재시작하세요. 문제가 지속될 경우 DJI 고객센터에 문의하세요.</string>
+		<string name="DJIIMUInitFailReason_CompassDead">콤파스 멈춤. 기체를 재시작하세요. 문제가 지속될 경우 DJI 고객센터에 문의하세요.</string>
+		<string name="DJIIMUInitFailReason_CompassModTooLarge">"콤파스 모드값 오류. 다음 지시를 따르세요. 1. 기체를 다른 장소로 옮기고 다시 시작하세요.2. 오류가 지속되면 콤파스 캘리브레이션하세요."</string>
+		<string name="DJIIMUInitFailReason_CompassNoiseTooLarge">"콤파스 노이즈 오류. 캘리브레이션하기 위해 다음 단계를 따르세요.1. 기체를 다른 장소로 옮기고 다시 시작하세요. 2. 콤파스 캘리브레이션하세요. 재시작 후에도 문제가 지속될 경우 DJI 고객센터에 문의하세요."</string>
+		<string name="DJIIMUInitFailReason_GyroDead">자이로 멈춤. 기체를 재시작하세요. 문제가 지속될 경우 DJI 고객센터에 문의하세요.</string>    
+		<string name="DJIIMUInitFailReason_WaitingAircraftStationary">기체의 움직임이 감지되었습니다. 기체를 안정된 상태로 유지하세요. 문제가 지속될 경우 DJI 고객센터에 문의하세요.</string>
